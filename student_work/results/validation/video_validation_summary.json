@@ -3,8 +3,8 @@
   "processed_frames": 430,
   "source_fps": 14.360980914972748,
   "processed_duration_seconds": 29.942244373549883,
-  "processing_seconds": 10.385285846999977,
-  "average_processing_fps": 41.404734191713665,
+  "processing_seconds": 11.474348216999942,
+  "average_processing_fps": 37.47489546839174,
   "average_predicted_count": 9.611627906976745,
   "confidence": 0.25,
   "output_video": "student_work/results/validation/megalopa_validation_annotated_h264.mp4"
